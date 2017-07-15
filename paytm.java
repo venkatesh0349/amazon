@@ -5,3 +5,4 @@ hungry=input("i am hungry")
       else 
       print("do your homework")
       print("otherwise play cricket")
+      print("or volleyball")

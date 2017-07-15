@@ -3,4 +3,5 @@ input("sum of two numbers")
       b=5;
       add=a+b;
       print("addition")
+print("substraction")
 
